@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(37, 37, 37);
+}
+.todolist{
+    color: rgb(247, 247, 247);
+font-family: "Kanit";
+font-size: 26px;
+font-weight: 500;
+line-height: 39px;
+text-align: center;
+}
+.savol{
+    width: 595px;
+height: 38px;
+margin-left: 325px;
+margin-top: 18px;
+}
+.knopka{
+    border-radius: 5px;
+    color: rgb(247, 247, 247);
+    font-family: "Kanit";
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 100%;
+    text-align: center;
+    text-transform: uppercase;
+background: rgb(108, 99, 255);
+width: 64px;
+height: 38px;
+margin-left: 16px;
+}
